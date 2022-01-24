@@ -1,0 +1,2 @@
+nombre puestos_de_trabajo valor
+media_salarial

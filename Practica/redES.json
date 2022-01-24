@@ -1,0 +1,401 @@
+{
+	"Personas": [
+		{
+			"nombre": {
+				"nombre": "Adrián",
+				"apellido": "Cortes"
+			},
+			"telefonos": [
+				639861561,
+				691078391
+			],
+			"ciudad": {
+				"nombre": "Huelva, Spain",
+				"coordenadas" : [ 37.2571,-6.94955]
+			},
+			"estudios": [
+				{
+					"universidad": "USAL",
+					"inicio": "19/04/2012",
+					"final": "24/03/2005"
+				},
+				{
+					"universidad": "USAL",
+					"inicio": "13/09/2011",
+					"final": "17/03/2002"
+				}
+			],
+			"trabajo": [
+				{
+					"empresa": "Telefonica",
+					"inicio": "28/09/2018",
+					"final": "21/07/2005"
+				},
+				{
+					"empresa": "Caperminy",
+					"inicio": "12/05/2005",
+					"final": "08/05/2007"
+				}
+			]
+		},
+		{
+			"nombre": {
+				"nombre": "Laura",
+				"apellido": "Diéguez"
+			},
+			"telefonos": [
+				659825227,
+				618915385
+			],
+			"ciudad": {
+				"nombre": "Badajoz, Spain",
+				"coordenadas" : [38.8786,-6.97028]
+			},
+			"estudios": [
+				{
+					"universidad": "UPM",
+					"inicio": "23/01/2004",
+					"final": "07/10/2012"
+				},
+				{
+					"universidad": "UPM",
+					"inicio": "23/09/2015",
+					"final": "23/10/2004"
+				}
+			],
+			"trabajo": [
+				{
+					"empresa": "everis",
+					"inicio": "08/05/2002",
+					"final": "27/08/2006"
+				},
+				{
+					"empresa": "Deloite",
+					"inicio": "28/02/2010",
+					"final": "16/10/2016"
+				}
+			]
+		},
+		{
+			"nombre": {
+				"nombre": "Carmen",
+				"apellido": "Cortes"
+			},
+			"telefonos": [
+				676278157,
+				646490791
+			],
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"estudios": [
+				{
+					"universidad": "USAL",
+					"inicio": "26/05/2009",
+					"final": "26/09/2010"
+				},
+				{
+					"universidad": "UC3",
+					"inicio": "26/11/2012",
+					"final": "01/07/2017"
+				}
+			],
+			"trabajo": [
+				{
+					"empresa": "Telefonica",
+					"inicio": "07/08/2011",
+					"final": "26/10/2002"
+				},
+				{
+					"empresa": "Deloite",
+					"inicio": "20/05/2011",
+					"final": "05/04/2010"
+				}
+			]
+		},
+		{
+			"nombre": {
+				"nombre": "José",
+				"apellido": "Colmenero"
+			},
+			"telefonos": [
+				649047896,
+				680810792
+			],
+			"ciudad": {
+				"nombre": "Soria, Spain",
+				"coordenadas" : [41.7636,-2.46492]
+			},
+			"estudios": [
+				{
+					"universidad": "U-tad",
+					"inicio": "25/09/2003",
+					"final": "24/12/2004"
+				},
+				{
+					"universidad": "UC3",
+					"inicio": "14/12/2004",
+					"final": "27/04/2013"
+				}
+			],
+			"trabajo": [
+				{
+					"empresa": "Caperminy",
+					"inicio": "18/04/2007",
+					"final": "07/12/2006"
+				},
+				{
+					"empresa": "banco santander",
+					"inicio": "11/10/2017",
+					"final": "08/07/2003"
+				}
+			]
+		},
+		{
+			"nombre": {
+				"nombre": "Pedro",
+				"apellido": "Diéguez"
+			},
+			"telefonos": [
+				617923493,
+				643499041
+			],
+			"ciudad": {
+				"nombre": "Malaga, Spain",
+				"coordenadas" : [36.7196,-4.42002]
+			},
+			"estudios": [
+				{
+					"universidad": "UCM",
+					"inicio": "19/01/2018",
+					"final": "18/11/2012"
+				},
+				{
+					"universidad": "UC3",
+					"inicio": "16/06/2005",
+					"final": "16/06/2009"
+				}
+			],
+			"trabajo": [
+				{
+					"empresa": "everis",
+					"inicio": "03/05/2007",
+					"final": "11/10/2007"
+				},
+				{
+					"empresa": "banco santander",
+					"inicio": "22/07/2013",
+					"final": "02/07/2010"
+				}
+			]
+		},
+		{
+			"nombre": {
+				"nombre": "Carmen",
+				"apellido": "Sánchez"
+			},
+			"telefonos": [
+				665547426,
+				652297097
+			],
+			"ciudad": {
+				"nombre": "Tarragona, Spain",
+				"coordenadas" : [41.11667,1.25]
+			},
+			"estudios": [
+				{
+					"universidad": "UCM",
+					"inicio": "17/06/2015",
+					"final": "10/09/2000"
+				},
+				{
+					"universidad": "UC3",
+					"inicio": "14/07/2017",
+					"final": "19/05/2017"
+				}
+			],
+			"trabajo": [
+				{
+					"empresa": "Telefonica",
+					"inicio": "07/12/2014",
+					"final": "20/12/2006"
+				},
+				{
+					"empresa": "banco santander",
+					"inicio": "24/04/2009",
+					"final": "23/11/2008"
+				}
+			]
+		},
+		{
+			"nombre": {
+				"nombre": "José",
+				"apellido": "Sánchez"
+			},
+			"telefonos": [
+				672874606,
+				614742312
+			],
+			"ciudad": {
+				"nombre": "Zaragoza, Spain",
+				"coordenadas" : [41.6563,-0.876566]
+			},
+			"estudios": [
+				{
+					"universidad": "U-tad",
+					"inicio": "11/07/2014",
+					"final": "06/11/2008"
+				},
+				{
+					"universidad": "U-tad",
+					"inicio": "28/03/2002",
+					"final": "13/09/2012"
+				}
+			],
+			"trabajo": [
+				{
+					"empresa": "Caperminy",
+					"inicio": "09/01/2018",
+					"final": "05/11/2011"
+				},
+				{
+					"empresa": "everis",
+					"inicio": "20/03/2007",
+					"final": "07/04/2012"
+				}
+			]
+		}
+	],
+	"Universidades" : [
+		{
+			"nombre": "U-tad",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"titulaciones": [
+				"Ingenieria de software",
+				"Diseño de videjuegos"
+			]
+		},
+		{
+			"nombre": "USAL",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"titulaciones": [
+				"Ingenieria de software",
+				"Diseño de videjuegos"
+			]
+		},
+		{
+			"nombre": "UAM",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"titulaciones": [
+				"Ingenieria de software",
+				"Diseño de videjuegos"
+			]
+		},
+		{
+			"nombre": "UPM",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"titulaciones": [
+				"Ingenieria de software",
+				"Diseño de videjuegos"
+			]
+		},
+		{
+			"nombre": "UCM",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"titulaciones": [
+				"Ingenieria de software",
+				"Diseño de videjuegos"
+			]
+		},
+		{
+			"nombre": "UC3",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"titulaciones": [
+				"Ingenieria de software",
+				"Diseño de videjuegos"
+			]
+		}
+	],
+	"Empresas" : [
+		{
+			"nombre": "Caperminy",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"puestos": [
+				"Desarollador",
+				"CEO"
+			]
+		},
+		{
+			"nombre": "everis",
+			"ciudad": {
+				"nombre":"Granada, Andalucia, Spain",
+				"coordenadas" : [37.18817, 3.60667]
+			},
+			"puestos": [
+				"Desarollador",
+				"CEO"
+			]
+		},
+		{
+			"nombre": "Telefonica",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"puestos": [
+				"Desarollador",
+				"CEO",
+				"ProductManager",
+				"data analyst"
+			]
+		},
+		{
+			"nombre": "banco santander",
+			"ciudad": {
+				"nombre": "Madrid, Spain",
+				"coordenadas" : [40.4165 , -3.70256]
+			},
+			"puestos": [
+				"Desarollador",
+				"CEO",
+				"Junior Software Developer",
+				"Diseñador"
+			]
+		},
+		{
+			"nombre": "Deloite",
+			"ciudad": {
+				"ciudad": "Zaragoza, Aragon, Spain",
+				"coordenadas" : [41.6563,-0.876566]
+			},
+			"puestos": [
+				"Desarollador",
+				"CEO",
+				"Big Data",
+				"Departamento legal"
+			]
+		}
+	]
+}

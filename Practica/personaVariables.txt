@@ -1,0 +1,2 @@
+nombre telefonos ciudad estudios trabajo
+email
