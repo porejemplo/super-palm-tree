@@ -1,8 +1,8 @@
-# Ampliacion de base de datos - Mongo y Redis
-### Mongo
-Creacion de una base de datos de personas, empresas y centros educativos. Diseño de una aplicacion que pueda gestionar la entrada de nuevas entidades y realizar busquedas.
+# Ampliación de base de datos - Mongodb y Redis
+## Mongo
+Creación de una base de datos de personas, empresas y centros educativos. Diseño de una aplicación que pueda gestionar la entrada de nuevas entidades y realizar búsquedas.
 
-Aparte realizar las siguentes busquedas:
+Aparte realizar las siguientes búsquedas:
 1. Listado de todas las personas de Huelva.
 2. Listado de todas personas que han estudiado en la UPM o UAM.
 3. Listado de las diferentes ciudades en las que se encuentran las personas
@@ -14,14 +14,14 @@ trabajan en la UPM.
 7. Listado de las tres universidades que más veces aparece como centro de estudios de las
 personas registradas. Mostrar universidad y el número de veces que aparece.
 
-### Redis
-El ejercicio consistia en utilizando la base de datos de mongo db implementar un sistema de cache, sesiones y una help desk.
+## Redis
+El ejercicio consiste en utilizar la base de datos de mongodb e implementar un sistema de caché, sesiones y una help desk.
 
-###### Cache
-Se trata de implementar un sistema de cache que guarde las busquedas que se hacen en la base de datos de mongo, para que si son buscados una segunda vez algo y se vuelve a pedir en la sproximas 24 horas se mantenga en la base de redis y la busqueda sea mucho mas rapida.
+##### Caché
+Se trata de implementar un sistema de cache que guarda las búsquedas que se hacen en la base de datos de mongodb, para que si son buscados una segunda vez algo y se vuelve a pedir en las próximas 24 horas se mantenga en la base de redis y la búsqueda sea mucho mas rapida.
 
-###### Sesiones
-Implementacion de un sistema de sesiones y una base de datos que guarde la informacion.
+##### Sesiones
+Implementación de un sistema de sesiones y una base de datos que guarde la información.
 
-###### HelpDesk
-Diseño e implementacion de las funciones necesarias para la gestión de peticiones de ayuda de los usuarios.
+##### HelpDesk
+Diseño e implementación de las funciones necesarias para la gestión de peticiones de ayuda de los usuarios.
